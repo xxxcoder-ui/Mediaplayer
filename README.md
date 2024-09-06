@@ -11,7 +11,7 @@ This is a fully responsive Spotify-themed music player built using only HTML and
 - Styled progress bar for tracking song progress.
 
 ## Screenshot
-![screenshot](./assets/clone-shot/)
+![screenshot](./assets/clone-shot.png/)
 
 
 Technologies Used
